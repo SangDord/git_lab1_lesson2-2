@@ -1,0 +1,12 @@
+1. В ветке master изменен README:
+    У ветки demo последний коммит README (079fa1b2), а у master (df455a79) с комментарием "fix readme"
+Больше отличий нет, так как buttons был cлит в demo, но также и buttons был слит в boots_buttons, а уже тот в master
+
+2. Не считая моих коммитов, всего 6 коммитов
+Комментарии:
+    init
+    heat added
+    boots
+    README added
+    dots
+    fix readme
